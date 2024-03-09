@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
-**Evgereo/Evgereo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java backend developer. Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I develop Java backend applications and enjoy creating cool projects. I'm interested in new technologies and the world of IT. Dive into my code and enjoy the journey! ✨
+
+## Contact Me
+
+📫 [Telegram](https://t.me/evgereo)
+
+If you have any questions or ideas for collaboration, feel free to reach out to me! I'd be happy to chat. 😊
